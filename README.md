@@ -1,4 +1,4 @@
-# Afame Technologies Data Analytics Internship
+# Afame Technologies Data Analytics Internship Assignment
 
 ### In this 1-month internship, we were given 3 projects namely:
 ### 1. Sales Data Analysis
